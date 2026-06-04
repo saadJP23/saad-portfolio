@@ -1,0 +1,11 @@
+node_modules/
+package.json
+package-lock.json
+gen_images*.mjs
+screenshot.mjs
+scout_pages.mjs
+scout_scroll.mjs
+images/pick_*.jpg
+images/scout_*.jpg
+.claude/
+.DS_Store
