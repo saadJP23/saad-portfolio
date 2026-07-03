@@ -9,3 +9,4 @@ images/pick_*.jpg
 images/scout_*.jpg
 .claude/
 .DS_Store
+.vercel
